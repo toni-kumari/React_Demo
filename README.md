@@ -28,11 +28,10 @@ This project is designed to help new React developers understand the fundamental
 
 Usage
 To run the application locally, use the following command:
-> npm run dev
+npm run dev
 Then, open your browser and navigate to http://localhost:3000 to see the app in action.
 
 Project Structure
-
 ├── src
 │   ├── assets
 │   │   ├── components.png
@@ -60,12 +59,10 @@ Project Structure
 ├── package.json
 └── vite.config.js
 
-Features
- .Header: A simple header component.
- .Core Concepts: Displays core React concepts with related examples.
- .Examples: Showcases different examples with a tabbed interface for 
-            topics like components, JSX, props, and state
+Header: A simple header component.
+Core Concepts: Displays core React concepts with related examples.
+Examples: Showcases different examples with a tabbed interface for topics like components, JSX, props, and state.
+
 Contributing
-Contributions are welcome!
-Please feel free to submit a pull request or open an issue for any bugs or
-feature requests.
+Contributions are welcome! Please feel free to submit a pull request or open an issue for any bugs or feature requests
+You can replace the current content in your README.md file with the above content to fix the formatting issues.
