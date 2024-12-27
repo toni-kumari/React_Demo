@@ -1,25 +1,26 @@
-React Project: Core Concepts and Examples
-This project demonstrates the core concepts of React using simple examples to illustrate 
-each topic. The app provides a basic structure to understand components, JSX, props, and
-state management in React.
+# React Project: Core Concepts and Examples
 
-Table of Contents
- > Introduction
- > Installation
- > Usage
- > Project Structure
- > Features
- > Contributing
+This project demonstrates the core concepts of React using simple examples to illustrate each topic. The app provides a basic structure to understand components, JSX, props, and state management in React.
+
+## Table of Contents
+- [Introduction](#introduction)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Project Structure](#project-structure)
+- [Features](#features)
+- [Contributing](#contributing)
+
+## Introduction
+
+This project is designed to help new React developers understand the fundamental concepts of React through practical examples. It includes a series of components that showcase core concepts, along with a simple interface to select and display examples.
+
+## Installation
+
+1. Clone the repository:
+   ```sh
+   git clone https://github.com/toni-kumari/React_Demo.git
 
 
-Introduction
-This project is designed to help new React developers understand the fundamental concepts of 
-React through practical examples. It includes a series of components that showcase core concepts,
-along with a simple interface to select and display examples.
-
-Installation
-.Clone the repository :
- > git clone https://github.com/toni-kumari/React_Demo.git
 .Navigate to the project directory:
  > cd React_Demo
 .Install the dependencies:
