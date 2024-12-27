@@ -21,17 +21,25 @@ This project is designed to help new React developers understand the fundamental
    git clone https://github.com/toni-kumari/React_Demo.git
 
 
-.Navigate to the project directory:
- > cd React_Demo
-.Install the dependencies:
-> npm install
+2. Navigate to the project directory:
+```sh
+   cd React_Demo 
+```
 
-Usage
+## Install the dependencies:
+```sh
+    npm install
+```
+
+## Usage
 To run the application locally, use the following command:
-npm run dev
+```sh
+   npm run dev
+```
 Then, open your browser and navigate to http://localhost:3000 to see the app in action.
 
-Project Structure
+## Project Structure
+```sh
 ├── src
 │   ├── assets
 │   │   ├── components.png
@@ -58,11 +66,11 @@ Project Structure
 ├── package-lock.json
 ├── package.json
 └── vite.config.js
+```
 
-Header: A simple header component.
+## Header: A simple header component.
 Core Concepts: Displays core React concepts with related examples.
 Examples: Showcases different examples with a tabbed interface for topics like components, JSX, props, and state.
 
-Contributing
+## Contributing
 Contributions are welcome! Please feel free to submit a pull request or open an issue for any bugs or feature requests
-You can replace the current content in your README.md file with the above content to fix the formatting issues.
